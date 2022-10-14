@@ -39,6 +39,6 @@ Se busca crear una página web en la cual los usuarios podrán ingresar por medi
 
 ## **Buyer Persona.**
 
-##**Wireframe UX**
+## **Wireframe UX.**
 
-##**UI**
+## **UI.**
