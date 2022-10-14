@@ -14,3 +14,25 @@ Descripción:
 - Al usuario le llegan correos de notificación para saber el avance de su proceso.
 - La página debe de ser responsive para poderla ver desde el celular.
 - La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
+
+
+## **1) Toma de Requerimientos.**
+
+Se busca crear una página web en la cual los usuarios podrán ingresar por medio de computadora o en su defecto dispositivos móviles.
+
+**Cliente**
+
+- Crear formulario para el registro de las cuentas de los clientes.
+- Crear cuenta de clientes.
+- Método de pago para finalizar transacción.
+- Ver seguimiento de las demandas y cada actualización dentro de su cuenta.
+- Notificaciones para avance del proceso.
+
+**Administrado**
+- Recibir notificaciones de una nueva demanda.
+- Dashboard para ingresos recibidos.
+- Actualización de procesos y agregar comentarios.
+
+**Diagrama de Flujo**
+
+
