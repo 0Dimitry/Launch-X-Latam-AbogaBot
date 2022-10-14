@@ -16,7 +16,7 @@ Descripción:
 - La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
 
-## **1) Toma de Requerimientos.**
+## ** Toma de Requerimientos.**
 
 Se busca crear una página web en la cual los usuarios podrán ingresar por medio de computadora o en su defecto dispositivos móviles.
 
@@ -36,3 +36,5 @@ Se busca crear una página web en la cual los usuarios podrán ingresar por medi
 **Diagrama de Flujo**
 
 ![Digrama de flujo](./Img/Diagrama_flujo.png)
+
+## ** Buyer Persona.**
