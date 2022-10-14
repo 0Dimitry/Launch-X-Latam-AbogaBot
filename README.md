@@ -37,4 +37,4 @@ Se busca crear una página web en la cual los usuarios podrán ingresar por medi
 
 ![Digrama de flujo](./Img/Diagrama_flujo.png)
 
-## ** Buyer Persona.**
+## **Buyer Persona.**
