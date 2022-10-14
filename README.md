@@ -16,7 +16,7 @@ Descripción:
 - La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
 
-## ** Toma de Requerimientos.**
+## **Toma de Requerimientos.**
 
 Se busca crear una página web en la cual los usuarios podrán ingresar por medio de computadora o en su defecto dispositivos móviles.
 
