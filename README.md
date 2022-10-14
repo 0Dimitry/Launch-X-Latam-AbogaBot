@@ -35,4 +35,4 @@ Se busca crear una página web en la cual los usuarios podrán ingresar por medi
 
 **Diagrama de Flujo**
 
-
+![Digrama de flujo](./Img/Diagrama_flujo.png)
