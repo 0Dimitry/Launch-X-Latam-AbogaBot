@@ -43,7 +43,7 @@ Se busca crear una página web en la cual los usuarios podrán ingresar por medi
 
 ## **Publico Objectivo.**
 
-![Publico Objectivo](./Publico_objectivo.png)
+![Publico Objectivo](./Img/Publico_objectivo.png)
 ## **Wireframe UX**
 
 ## **UI**
