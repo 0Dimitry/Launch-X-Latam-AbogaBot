@@ -39,8 +39,8 @@ Se busca crear una página web en la cual los usuarios podrán ingresar por medi
 
 ## **Buyer Persona.**
 
-![Buyer Persona](./Img/Buyer_Persona.png)
-.
+![Buyer Persona](./Img/Buyer_persona.png)
+
 ## **Wireframe UX**
 
 ## **UI**
